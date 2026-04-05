@@ -4,13 +4,11 @@
   <p><em>Streamline Your Invoicing Process with Ease</em></p>
 </div>
 
-
 ---
 
 ## 📖 Brand Intro
 
 Welcome to **Quick Invoice**, the ultimate full-stack web application designed to revolutionize invoice creation and management for vendors. Whether you're a freelancer, small business owner, or enterprise, Quick Invoice empowers you with a seamless, intuitive platform to generate professional invoices effortlessly. Experience the power of automation, customization, and efficiency — all in one place. Say goodbye to manual paperwork and hello to smart, scalable invoicing! 🚀
-
 
 ---
 
